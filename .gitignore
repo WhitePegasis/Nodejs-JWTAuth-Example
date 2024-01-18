@@ -1,0 +1,11 @@
+
+# dependencies
+/react-frontend/node_modules
+
+# production
+/react-frontend/build
+
+
+/node-backend/node_modules
+
+
